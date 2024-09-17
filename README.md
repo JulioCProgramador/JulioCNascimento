@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @JulioCProgramador
-- 👀 Estou interessado em vaga para programador de Python
+- 👀 Estou interessado em vagas para programador de Python e solução de problemas
 - 🌱 Atualmente estou aprendendo Inglês, ETL Pipeline e análise em Big Data
 - 💞️ Procuro colaborar em empresas que sofrem com grandes demandas de dados, e problemas relacionados a isto
 - 📫 Como entrar em contato comigo: (11) 95922-6184 ou jc.nasc.gomes2008@gmail.com
