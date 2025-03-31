@@ -5,8 +5,7 @@
 - 📫 Como entrar em contato comigo: (11) 95922-6184 ou jc.nasc.gomes2008@gmail.com;
 - 😄 Apelidos: Juca.
 
-
-<!---
-JulioCProgramador/JulioCProgramador é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
---->
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gpp/gpp-original.svg">
+  <img align="center" alt="Rafa-C++" height="30" width="40" 
