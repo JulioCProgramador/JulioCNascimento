@@ -2,8 +2,6 @@
 - 👀 Estou interessado em vagas para programador de Python para Resolução de problemas;
 - 🌱 Atualmente estou aprendendo Inglês, C++, I.A Generativa e Visão Computacional;
 - 💞️ Procuro colaborar em empresas que sofrem com grandes demandas de dados e que estejam interessadas em aplicar Inteligência Artificial nos processos de suas empresas;
-- 📫 Como entrar em contato comigo: (11) 95922-6184 ou jc.nasc.gomes2008@gmail.com;
-- 😄 Apelidos: Juca.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="60" width="80"
@@ -11,3 +9,6 @@
     <img align="center" alt="C++" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
+<div>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
