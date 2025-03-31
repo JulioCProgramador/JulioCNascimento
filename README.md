@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @JulioCProgramador;
+- 👋 Oi, eu sou @Julio Cesar;
 - 👀 Estou interessado em vagas para programador de Python e solução de problemas;
 - 🌱 Atualmente estou aprendendo Inglês, I.A e análise em Big Data;
 - 💞️ Procuro colaborar em empresas que sofrem com grandes demandas de dados;
