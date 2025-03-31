@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Inglês, I.A e análise em Big Data;
 - 💞️ Procuro colaborar em empresas que sofrem com grandes demandas de dados;
 - 📫 Como entrar em contato comigo: (11) 95922-6184 ou jc.nasc.gomes2008@gmail.com;
-- 😄 Pronomes: Juca.
+- 😄 Apelidos: Juca.
 
 
 <!---
